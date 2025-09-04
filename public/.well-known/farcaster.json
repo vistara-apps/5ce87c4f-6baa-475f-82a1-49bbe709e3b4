@@ -1,0 +1,30 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "frame": {
+    "version": "1",
+    "name": "KnowYourRights Card",
+    "subtitle": "Built with Zara",
+    "description": "KnowYourRights Card is a Base Mini App built with Zara.",
+    "iconUrl": "https://0co.to/images/zara-2.png",
+    "homeUrl": "https://5ce87c4f6baa475f82a149bbe709e3b4-yu5k-f73ntrwoo-vistara.vercel.app",
+    "splashImageUrl": "https://5ce87c4f6baa475f82a149bbe709e3b4-yu5k-f73ntrwoo-vistara.vercel.app/splash.png",
+    "splashBackgroundColor": "#000000",
+    "heroImageUrl": "https://5ce87c4f6baa475f82a149bbe709e3b4-yu5k-f73ntrwoo-vistara.vercel.app/image.png",
+    "tagline": "KnowYourRights Card",
+    "screenshotUrls": [
+      "https://5ce87c4f6baa475f82a149bbe709e3b4-yu5k-f73ntrwoo-vistara.vercel.app/screenshot.png",
+      "https://5ce87c4f6baa475f82a149bbe709e3b4-yu5k-f73ntrwoo-vistara.vercel.app/screenshot.png"
+    ],
+    "primaryCategory": "social",
+    "tags": [
+      "base",
+      "miniapp",
+      "onchainkit"
+    ],
+    "webhookUrl": "https://5ce87c4f6baa475f82a149bbe709e3b4-yu5k-f73ntrwoo-vistara.vercel.app/api/webhook"
+  }
+}
