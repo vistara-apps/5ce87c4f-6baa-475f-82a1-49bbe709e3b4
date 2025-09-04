@@ -1,5 +1,6 @@
 'use client';
 
+import React from 'react';
 import { Mic, MicOff, Circle } from 'lucide-react';
 import { useRecording } from '../hooks/useRecording';
 import { useGeolocation } from '../hooks/useGeolocation';
